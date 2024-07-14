@@ -1,6 +1,7 @@
 # Multimodal AI Assistant with Image and Voice Interaction
  <br>
  Author - Aayush Kunwar
+ <br>
 This project provides an AI-powered assistant that can process both voice and image inputs. The assistant transcribes spoken input to text, analyzes the content of an image, and generates detailed descriptions. It then converts the AI-generated response back to speech, allowing for a seamless interactive experience.
 
 ## Features
